@@ -20,7 +20,6 @@ def checkinput(wrd,guess):
 
 init(autoreset=True)
 word= random_char(5)
-word= 'azure'
 loop =True
 loopcount=0
 win=False
